@@ -1,0 +1,35 @@
+Naming convention:
+<company>-<class>-<id_trainee>-<resource_name>-<resource_type>-<region>-<index>
+
+* VPC
+vti-do2502-DE000079-vpc-as2-001
+
+* Subnets
+vti-do2502-DE000079-sn-public-as2-001
+vti-do2502-DE000079-sn-private-as2-001
+vti-do2502-DE000079-sn-database-as2-001
+
+* Route Tables
+vti-do2502-DE000079-rtb-public-as2-001
+vti-do2502-DE000079-rtb-private-as2-001
+
+*EC2 IP:
+vti-do2502-DE000079-eip-as2-001
+
+* EC2:
+vti-do2502-DE000079-ec2-public-as2-001
+
+* Keypaires
+vti-do2502-DE000079-kp-public-as2-001
+vti-do2502-DE000079-kp-private-as2-001
+
+* Security Groups
+vti-do2502-DE000079-sg-public-as2-001
+vti-do2502-DE000079-sg-private-as2-001
+vti-do2502-DE000079-sg-database-as2-001
+
+* Internet gateway:
+vti-do2502-DE000079-igw-as2-001
+
+* NATs
+vti-do2502-DE000079-nat-as2-001
