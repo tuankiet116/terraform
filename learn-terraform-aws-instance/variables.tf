@@ -1,5 +1,5 @@
 variable "availability_zone_names" {
   type    = list(string)
-  default = ["apse2-az1"]
+  default = ["ap-southeast-2a"]
   description = "values for availability zone names"
 }
